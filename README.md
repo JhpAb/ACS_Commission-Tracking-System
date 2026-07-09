@@ -23,7 +23,7 @@ A system to track insurance commissions, prime reversements, and payment discrep
 ## Setup
 ```bash
 pip install -r requirements.txt
-
+```
 ----------------------------
 ## Repository Structure
 ----------------------------
