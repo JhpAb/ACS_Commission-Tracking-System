@@ -1,4 +1,3 @@
--------------------
 # ACS - Commission Tracking System
 
 ## Overview
