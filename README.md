@@ -8,7 +8,8 @@ A system to track insurance commissions, prime reversements, and payment discrep
 - **Bordereaux**: Prime collection/reversement records.
 - **Bank Statements**: Actual payments received.
 ## Data Base Schema
-![Uploading ACS - Commission Tracking System.png…]()
+<img width="7943" height="3317" alt="ACS - Commission Tracking System" src="https://github.com/user-attachments/assets/f6ee78c6-8acb-4efe-b3e1-a7f7c38ce00d" />
+
 
 ## Workflow
 1. **Data Collection**: Gather conventions, bordereaux, and bank statements.
