@@ -7,6 +7,8 @@ A system to track insurance commissions, prime reversements, and payment discrep
 - **Conventions**: Agreements with insurance companies (commission rates, reversement rules).
 - **Bordereaux**: Prime collection/reversement records.
 - **Bank Statements**: Actual payments received.
+## Data Base Schema
+![Uploading ACS - Commission Tracking System.png…]()
 
 ## Workflow
 1. **Data Collection**: Gather conventions, bordereaux, and bank statements.
