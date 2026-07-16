@@ -10,6 +10,8 @@ A system to track insurance commissions, prime reversements, and payment discrep
 ## Data Base Schema
 <img width="7943" height="3317" alt="ACS - Commission Tracking System" src="https://github.com/user-attachments/assets/f6ee78c6-8acb-4efe-b3e1-a7f7c38ce00d" />
 
+## Data Architecture Pipeline
+<img width="2720" height="2880" alt="architecture_erp_vers_powerbi" src="https://github.com/user-attachments/assets/3d8ace56-9514-4653-8629-7b042ff6524e" />
 
 ## Workflow
 1. **Data Collection**: Gather conventions, bordereaux, and bank statements.
